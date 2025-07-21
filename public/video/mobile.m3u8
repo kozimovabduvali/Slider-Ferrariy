@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=512000
+https://ferrari-cdn.thron.com/ios/IVRMXV_03A_PTU_Intro_v06_mobile_FQPLOJ.mov/IVRMXV_03A_PTU_Intro_v06_mobile-512.m3u8?v=6
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000
+https://ferrari-cdn.thron.com/ios/IVRMXV_03A_PTU_Intro_v06_mobile_FQPLOJ.mov/IVRMXV_03A_PTU_Intro_v06_mobile-800.m3u8?v=6
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000
+https://ferrari-cdn.thron.com/ios/IVRMXV_03A_PTU_Intro_v06_mobile_FQPLOJ.mov/IVRMXV_03A_PTU_Intro_v06_mobile-1200.m3u8?v=6
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1600000
+https://ferrari-cdn.thron.com/ios/IVRMXV_03A_PTU_Intro_v06_mobile_FQPLOJ.mov/IVRMXV_03A_PTU_Intro_v06_mobile-1600.m3u8?v=6
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+https://ferrari-cdn.thron.com/ios/IVRMXV_03A_PTU_Intro_v06_mobile_FQPLOJ.mov/IVRMXV_03A_PTU_Intro_v06_mobile-2000.m3u8?v=6

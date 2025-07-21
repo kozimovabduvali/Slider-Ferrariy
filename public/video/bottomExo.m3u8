@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=512000
+https://ferrari-cdn.thron.com/ios/3YRC9F_04_3_Aero_vortex_gen_v02_desktop_HRTKUE.mp4/3YRC9F_04_3_Aero_vortex_gen_v02_desktop-512.m3u8?v=32
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000
+https://ferrari-cdn.thron.com/ios/3YRC9F_04_3_Aero_vortex_gen_v02_desktop_HRTKUE.mp4/3YRC9F_04_3_Aero_vortex_gen_v02_desktop-800.m3u8?v=32
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000
+https://ferrari-cdn.thron.com/ios/3YRC9F_04_3_Aero_vortex_gen_v02_desktop_HRTKUE.mp4/3YRC9F_04_3_Aero_vortex_gen_v02_desktop-1200.m3u8?v=32
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1600000
+https://ferrari-cdn.thron.com/ios/3YRC9F_04_3_Aero_vortex_gen_v02_desktop_HRTKUE.mp4/3YRC9F_04_3_Aero_vortex_gen_v02_desktop-1600.m3u8?v=32
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2000000
+https://ferrari-cdn.thron.com/ios/3YRC9F_04_3_Aero_vortex_gen_v02_desktop_HRTKUE.mp4/3YRC9F_04_3_Aero_vortex_gen_v02_desktop-2000.m3u8?v=32

@@ -1,0 +1,142 @@
+@import "tailwindcss";
+
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+
+@font-face {
+  font-family: SansRegular;
+  src: url(../public/fonts/Ferrari-SansRegular.woff2);
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: SansMedium;
+  src: url(../public/fonts/Ferrari-SansMedium.woff2);
+  font-weight: 500;
+  font-display: swap;
+}
+
+body{
+  background-color: #181818;
+}
+
+.SansRegular {
+  font-family: SansRegular, sans-serif;
+}
+.SansMedium {
+  font-family: SansMedium, sans-serif;
+}
+
+.w-25 {
+  width: 6.25rem;
+}
+
+/* Ensure smooth animations */
+.char {
+  display: inline-block;
+  transform-origin: bottom;
+}
+
+.line {
+  transform-origin: left;
+}
+
+.text {
+  transform: translateY(0);
+}
+
+@media (min-width: 60.0625em) {
+  .HorizontalSlider__text-wrapper__2rGRUfhC {
+    padding: 10vh 15vw 10vh 0;
+  }
+}
+.Icon__over-circle__1opWzs6L circle {
+  stroke: #da291c;
+  stroke-width: 1px;
+  fill: none;
+}
+
+.Icon__darkgrey__7znEGsMR > svg,
+.Icon__darkgrey__7znEGsMR path {
+  fill: #fff !important;
+}
+
+.circle-stroke {
+  stroke: #969696; /* Default stroke color matches button background */
+  fill: none; /* Ensure circle is not filled */
+}
+
+.circle-stroke {
+  stroke: #da291c; /* Red stroke on hover */
+}
+
+.stroke-circle {
+  stroke-dasharray: 69;
+  stroke-dashoffset: 69;
+  opacity: 0;
+  transition: stroke-dashoffset 0.5s ease-in-out;
+  transition: opacity all 0.3 ease-in-out;
+}
+
+.group:hover .stroke-circle {
+  stroke-dashoffset: 0;
+  opacity: 1;
+}
+
+@media (min-width: 60.0625em) {
+  .Share__background__3rglzHoI {
+    background-image: radial-gradient(
+      circle at 88% 24%,
+      #000000,
+      black 20%,
+      rgba(0, 0, 0, 0)
+    );
+  }
+}
+@media (max-width: 60.0625em) {
+  .Share__background__3rglzHoI {
+    background-image: radial-gradient(
+      circle at 88% 18%,
+      #000000,
+      black 14%,
+      rgba(0, 0, 0, 0)
+    );
+  }
+}
+
+.th1-svg-gradient.th1-bg-stop-color {
+  stop-color: #ffffff;
+}
+
+.th1-hover-overlay-stop-color {
+  stop-opacity: 0;
+}
+
+/* Additional styles for better UX */
+.video-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.video-container video {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.progress-bar-container {
+  cursor: pointer;
+}
+
+.progress-bar-container:hover .progress-bar {
+  height: 0.75rem;
+}
+
+.controls {
+  transition: opacity 0.3s ease;
+}
+
+.controls button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+
